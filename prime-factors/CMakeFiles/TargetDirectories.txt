@@ -1,0 +1,4 @@
+/home/user/exercism/cpp/prime-factors/CMakeFiles/prime-factors.dir
+/home/user/exercism/cpp/prime-factors/CMakeFiles/test_prime-factors.dir
+/home/user/exercism/cpp/prime-factors/CMakeFiles/edit_cache.dir
+/home/user/exercism/cpp/prime-factors/CMakeFiles/rebuild_cache.dir

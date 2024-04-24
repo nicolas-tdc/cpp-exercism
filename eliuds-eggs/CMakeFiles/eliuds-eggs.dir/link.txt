@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/eliuds-eggs.dir/eliuds_eggs_test.cpp.o CMakeFiles/eliuds-eggs.dir/eliuds_eggs.cpp.o CMakeFiles/eliuds-eggs.dir/test/tests-main.cpp.o -o eliuds-eggs 

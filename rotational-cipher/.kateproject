@@ -1,0 +1,20 @@
+{
+	"name": "rotational-cipher-Debug@rotational-cipher",
+	"directory": "/home/user/exercism/cpp/rotational-cipher",
+	"files": [ { "list": [ "/home/user/exercism/cpp/rotational-cipher/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake", "/home/user/exercism/cpp/rotational-cipher/CMakeFiles/3.22.1/CMakeSystem.cmake", "/home/user/exercism/cpp/rotational-cipher/CMakeLists.txt", "/home/user/exercism/cpp/rotational-cipher/rotational_cipher.cpp", "/home/user/exercism/cpp/rotational-cipher/rotational_cipher.h", "/home/user/exercism/cpp/rotational-cipher/rotational_cipher_test.cpp", "/home/user/exercism/cpp/rotational-cipher/test/tests-main.cpp", "/usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake", "/usr/share/cmake-3.22/Modules/CMakeFindKate.cmake", "/usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake", "/usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake", "/usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake", "/usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake", "/usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake", "/usr/share/cmake-3.22/Modules/Compiler/GNU.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux.cmake", "/usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake", "/usr/share/cmake-3.22/Modules/ProcessorCount.cmake"] } ],
+	"build": {
+		"directory": "/home/user/exercism/cpp/rotational-cipher",
+		"default_target": "all",
+		"clean_target": "clean",
+		"build": "/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 all",
+		"clean": "/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 clean",
+		"quick": "/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 install",
+		"targets":[
+			 {"name":"all", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 all"}
+			,{"name":"clean", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 clean"}
+			,{"name":"rotational-cipher", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 rotational-cipher"}
+			,{"name":"rotational-cipher/fast", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 rotational-cipher/fast"}
+			,{"name":"test_rotational-cipher", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 test_rotational-cipher"}
+			,{"name":"rebuild_cache", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/rotational-cipher\" -j4 rebuild_cache"}
+	] }
+}

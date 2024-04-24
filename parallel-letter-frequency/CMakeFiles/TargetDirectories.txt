@@ -1,0 +1,4 @@
+/home/user/exercism/cpp/parallel-letter-frequency/CMakeFiles/parallel-letter-frequency.dir
+/home/user/exercism/cpp/parallel-letter-frequency/CMakeFiles/test_parallel-letter-frequency.dir
+/home/user/exercism/cpp/parallel-letter-frequency/CMakeFiles/edit_cache.dir
+/home/user/exercism/cpp/parallel-letter-frequency/CMakeFiles/rebuild_cache.dir

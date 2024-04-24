@@ -1,0 +1,20 @@
+{
+	"name": "making-the-grade-Debug@making-the-grade",
+	"directory": "/home/user/exercism/cpp/making-the-grade",
+	"files": [ { "list": [ "/home/user/exercism/cpp/making-the-grade/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake", "/home/user/exercism/cpp/making-the-grade/CMakeFiles/3.22.1/CMakeSystem.cmake", "/home/user/exercism/cpp/making-the-grade/CMakeLists.txt", "/home/user/exercism/cpp/making-the-grade/making_the_grade_test.cpp", "/home/user/exercism/cpp/making-the-grade/test/tests-main.cpp", "/usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake", "/usr/share/cmake-3.22/Modules/CMakeFindKate.cmake", "/usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake", "/usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake", "/usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake", "/usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake", "/usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake", "/usr/share/cmake-3.22/Modules/Compiler/GNU.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux.cmake", "/usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake", "/usr/share/cmake-3.22/Modules/ProcessorCount.cmake"] } ],
+	"build": {
+		"directory": "/home/user/exercism/cpp/making-the-grade",
+		"default_target": "all",
+		"clean_target": "clean",
+		"build": "/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 all",
+		"clean": "/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 clean",
+		"quick": "/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 install",
+		"targets":[
+			 {"name":"all", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 all"}
+			,{"name":"clean", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 clean"}
+			,{"name":"making-the-grade", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 making-the-grade"}
+			,{"name":"making-the-grade/fast", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 making-the-grade/fast"}
+			,{"name":"test_making-the-grade", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 test_making-the-grade"}
+			,{"name":"rebuild_cache", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/making-the-grade\" -j4 rebuild_cache"}
+	] }
+}

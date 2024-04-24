@@ -1,0 +1,4 @@
+/home/user/exercism/cpp/high-scores/CMakeFiles/high-scores.dir
+/home/user/exercism/cpp/high-scores/CMakeFiles/test_high-scores.dir
+/home/user/exercism/cpp/high-scores/CMakeFiles/edit_cache.dir
+/home/user/exercism/cpp/high-scores/CMakeFiles/rebuild_cache.dir

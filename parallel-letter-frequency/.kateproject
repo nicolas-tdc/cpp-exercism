@@ -1,0 +1,20 @@
+{
+	"name": "parallel-letter-frequency-Release@parallel-letter-frequency",
+	"directory": "/home/user/exercism/cpp/parallel-letter-frequency",
+	"files": [ { "list": [ "/home/user/exercism/cpp/parallel-letter-frequency/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake", "/home/user/exercism/cpp/parallel-letter-frequency/CMakeFiles/3.22.1/CMakeSystem.cmake", "/home/user/exercism/cpp/parallel-letter-frequency/CMakeLists.txt", "/home/user/exercism/cpp/parallel-letter-frequency/parallel_letter_frequency.cpp", "/home/user/exercism/cpp/parallel-letter-frequency/parallel_letter_frequency.h", "/home/user/exercism/cpp/parallel-letter-frequency/parallel_letter_frequency_test.cpp", "/home/user/exercism/cpp/parallel-letter-frequency/test/tests-main.cpp", "/usr/lib/x86_64-linux-gnu/cmake/TBB/TBBConfig.cmake", "/usr/lib/x86_64-linux-gnu/cmake/TBB/TBBConfigVersion.cmake", "/usr/lib/x86_64-linux-gnu/cmake/TBB/TBBTargets-none.cmake", "/usr/lib/x86_64-linux-gnu/cmake/TBB/TBBTargets.cmake", "/usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake", "/usr/share/cmake-3.22/Modules/CMakeFindKate.cmake", "/usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake", "/usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake", "/usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake", "/usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake", "/usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake", "/usr/share/cmake-3.22/Modules/Compiler/GNU.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux.cmake", "/usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake", "/usr/share/cmake-3.22/Modules/ProcessorCount.cmake"] } ],
+	"build": {
+		"directory": "/home/user/exercism/cpp/parallel-letter-frequency",
+		"default_target": "all",
+		"clean_target": "clean",
+		"build": "/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 all",
+		"clean": "/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 clean",
+		"quick": "/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 install",
+		"targets":[
+			 {"name":"all", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 all"}
+			,{"name":"clean", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 clean"}
+			,{"name":"parallel-letter-frequency", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 parallel-letter-frequency"}
+			,{"name":"parallel-letter-frequency/fast", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 parallel-letter-frequency/fast"}
+			,{"name":"test_parallel-letter-frequency", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 test_parallel-letter-frequency"}
+			,{"name":"rebuild_cache", "build_cmd":"/usr/bin/gmake -C \"/home/user/exercism/cpp/parallel-letter-frequency\" -j4 rebuild_cache"}
+	] }
+}

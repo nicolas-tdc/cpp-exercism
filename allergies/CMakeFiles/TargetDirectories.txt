@@ -1,0 +1,4 @@
+/home/user/exercism/cpp/allergies/CMakeFiles/allergies.dir
+/home/user/exercism/cpp/allergies/CMakeFiles/test_allergies.dir
+/home/user/exercism/cpp/allergies/CMakeFiles/edit_cache.dir
+/home/user/exercism/cpp/allergies/CMakeFiles/rebuild_cache.dir

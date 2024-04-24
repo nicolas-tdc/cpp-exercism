@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/kindergarten-garden.dir/kindergarten_garden_test.cpp.o CMakeFiles/kindergarten-garden.dir/kindergarten_garden.cpp.o CMakeFiles/kindergarten-garden.dir/test/tests-main.cpp.o -o kindergarten-garden 

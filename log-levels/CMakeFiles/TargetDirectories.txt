@@ -1,0 +1,4 @@
+/home/user/exercism/cpp/log-levels/CMakeFiles/log-levels.dir
+/home/user/exercism/cpp/log-levels/CMakeFiles/test_log-levels.dir
+/home/user/exercism/cpp/log-levels/CMakeFiles/edit_cache.dir
+/home/user/exercism/cpp/log-levels/CMakeFiles/rebuild_cache.dir
